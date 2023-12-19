@@ -1,0 +1,7 @@
+{
+    "java.format.settings.url": "java-formatter.xml",
+    "[java]": {
+        "editor.tabSize": 4,
+        "editor.detectIndentation": true
+    }
+}
